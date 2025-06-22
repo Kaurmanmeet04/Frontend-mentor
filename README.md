@@ -6,9 +6,12 @@ Student Id: 41147051
 
 Accepted challenge: Intro section with dropdown navigation
 
-Desktop View:<img width="1710" alt="Screenshot 2025-06-22 at 6 04 01 PM" src="https://github.com/user-attachments/assets/79017f0d-47a6-4045-a2ba-9e37468d4f24" />
+Desktop View:
+![Desktop view](https://github.com/user-attachments/assets/9d4cfec7-2870-482b-8a71-9a6fd14bc9d9)
+
 Mobile View:
-<img width="1710" alt="Screenshot 2025-06-22 at 6 03 15 PM" src="https://github.com/user-attachments/assets/81b512cd-5186-4c0f-b4df-5cbd4baf63f6" />
+![Mobile view](https://github.com/user-attachments/assets/8f373055-dbe7-42bd-b71d-cb46903aa7e6)
+
 
 Challenges face during implementation:
 
