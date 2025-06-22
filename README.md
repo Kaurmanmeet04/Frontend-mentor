@@ -2,6 +2,7 @@
 Name: Manmeet Kaur
 Student Id: 41147051
 Accepted challenge: Intro section with dropdown navigation
+
 Desktop View:<img width="1710" alt="Screenshot 2025-06-22 at 6 04 01 PM" src="https://github.com/user-attachments/assets/79017f0d-47a6-4045-a2ba-9e37468d4f24" />
 Mobile View:
 <img width="1710" alt="Screenshot 2025-06-22 at 6 03 15 PM" src="https://github.com/user-attachments/assets/81b512cd-5186-4c0f-b4df-5cbd4baf63f6" />
